@@ -39,7 +39,6 @@
 
 <br/>
 <hr/>
-
-<div align="center">
-![fgn](https://github.com/saint-jp/saint-jp/assets/29249322/0dbd3bde-87f1-4cf7-9974-97cddcdc28cf)
-</div>
+<p align="center">
+<img width=600 src="https://github.com/saint-jp/saint-jp/assets/29249322/0dbd3bde-87f1-4cf7-9974-97cddcdc28cf" />
+</p>
